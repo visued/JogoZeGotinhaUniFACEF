@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 881, y: 492}
   m_MaxSize: {x: 16006, y: 14042}
   vertical: 0
-  controlID: 116
+  controlID: 108
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 492}
   m_MaxSize: {x: 12005, y: 14042}
   vertical: 1
-  controlID: 117
+  controlID: 109
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 221}
   m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
-  controlID: 118
+  controlID: 110
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -419,8 +419,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: aef2ffff68fbffff
-      m_LastClickedID: -1176
+      m_SelectedIDs: b4350000
+      m_LastClickedID: 13748
       m_ExpandedIDs: 68fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -481,9 +481,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -15.109425, y: -11.788181, z: -21.514132}
+    m_Target: {x: -89.4005, y: 17.282951, z: 31.883701}
     speed: 2
-    m_Value: {x: -15.109425, y: -11.788181, z: -21.514132}
+    m_Value: {x: -89.4005, y: 17.282951, z: 31.883701}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -529,13 +529,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.17589484, y: 0.60706383, z: -0.14009857, w: -0.76217324}
+    m_Target: {x: -0.4400136, y: 0.555247, z: -0.4480067, w: -0.5453414}
     speed: 2
-    m_Value: {x: -0.17589484, y: 0.60706383, z: -0.14009857, w: -0.76217324}
+    m_Value: {x: -0.4414998, y: 0.5537517, z: -0.44817322, w: -0.545507}
   m_Size:
-    m_Target: 18.802036
+    m_Target: 217.1986
     speed: 2
-    m_Value: 19.687996
+    m_Value: 217.1986
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -599,20 +599,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Tiny_Toony_City_Extended/Prefabs/Cars
+    - Assets/Tiny_Toony_City_Extended
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Tiny_Toony_City_Extended/Prefabs/Cars
+  - Assets/Tiny_Toony_City_Extended
   m_LastFoldersGridSize: 64
   m_LastProjectPath: C:\dev\JogoZeGotinhaUniFACEF
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 94}
-    m_SelectedIDs: 3e410000
-    m_LastClickedID: 16702
-    m_ExpandedIDs: 0000000030410000324100003c41000000ca9a3b
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: be400000
+    m_LastClickedID: 16574
+    m_ExpandedIDs: 00000000be400000c0400000c240000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -640,7 +640,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000003041000032410000
+    m_ExpandedIDs: 00000000be400000c0400000c2400000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
