@@ -922,7 +922,7 @@ GameObject:
   - component: {fileID: 451768208}
   - component: {fileID: 451768207}
   m_Layer: 0
-  m_Name: Eduardo
+  m_Name: Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -998,7 +998,7 @@ Transform:
   m_GameObject: {fileID: 451768206}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 30, y: 1, z: 30}
+  m_LocalScale: {x: 10, y: 1, z: 10}
   m_Children: []
   m_Father: {fileID: 2023023978}
   m_RootOrder: 0
@@ -1416,7 +1416,7 @@ GameObject:
   - component: {fileID: 703750576}
   - component: {fileID: 703750575}
   m_Layer: 0
-  m_Name: Mateus
+  m_Name: Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1492,7 +1492,7 @@ Transform:
   m_GameObject: {fileID: 703750574}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 30, y: 1, z: 30}
+  m_LocalScale: {x: 10, y: 1, z: 10}
   m_Children: []
   m_Father: {fileID: 1031253043}
   m_RootOrder: 0
@@ -2852,7 +2852,7 @@ GameObject:
   - component: {fileID: 1251984311}
   - component: {fileID: 1251984310}
   m_Layer: 0
-  m_Name: "Tarc\xEDsio"
+  m_Name: Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2928,7 +2928,7 @@ Transform:
   m_GameObject: {fileID: 1251984309}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 30, y: 1, z: 30}
+  m_LocalScale: {x: 10, y: 1, z: 10}
   m_Children: []
   m_Father: {fileID: 1006521021}
   m_RootOrder: 0
@@ -2986,7 +2986,7 @@ GameObject:
   - component: {fileID: 1294658795}
   - component: {fileID: 1294658794}
   m_Layer: 0
-  m_Name: Victor
+  m_Name: Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3062,7 +3062,7 @@ Transform:
   m_GameObject: {fileID: 1294658793}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 30, y: 1, z: 30}
+  m_LocalScale: {x: 10, y: 1, z: 10}
   m_Children: []
   m_Father: {fileID: 758581005}
   m_RootOrder: 0
@@ -4076,7 +4076,7 @@ GameObject:
   - component: {fileID: 1536940849}
   - component: {fileID: 1536940848}
   m_Layer: 0
-  m_Name: Breno
+  m_Name: Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4152,7 +4152,7 @@ Transform:
   m_GameObject: {fileID: 1536940847}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 30, y: 1, z: 30}
+  m_LocalScale: {x: 10, y: 1, z: 10}
   m_Children: []
   m_Father: {fileID: 1325177716}
   m_RootOrder: 0
